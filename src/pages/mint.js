@@ -385,15 +385,7 @@ function Mint() {
 				<NavbarLinkA href={websiteURL}>
 					<NavbarImage src={logo} />
 				</NavbarLinkA>
-				<NavbarLinkA href={openseaURL}>
-					<NavbarImage src={Opensea} />
-				</NavbarLinkA>
-				<NavbarLinkA href={twitterURL}>
-					<NavbarImage src={Twitter} />
-				</NavbarLinkA>
-				<NavbarLinkA href={discordURL}>
-					<NavbarImage src={Discord} />
-				</NavbarLinkA>
+				
 			</MintPageNavbar>
 			
 			<DescriptionPanel>
